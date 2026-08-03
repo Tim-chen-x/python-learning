@@ -4,15 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0e362bfd-749a-48c8-ade4-79bb72f546ef" name="更改" comment="" />
+    <list default="true" id="0e362bfd-749a-48c8-ade4-79bb72f546ef" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/第二章/08.for循环.py" beforeDir="false" afterPath="$PROJECT_DIR$/第二章/08.for循环.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="first" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Tim-chen-x"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Tim-chen-x/python-learning.git",
+    "accountId": "946f4de0-5372-49de-982b-fe4790f10793"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 6
@@ -29,14 +49,15 @@
     "Python.02.常见数据类型.executor": "Run",
     "Python.04.运算符.executor": "Run",
     "Python.06.match模式匹配.executor": "Run",
-    "Python.08.for循环.executor": "Run",
+    "Python.08.for循环.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "settings.editor.selected.configurable": "preferences.fileTypes"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.06.match模式匹配">
+  <component name="RunManager" selected="Python.08.for循环">
     <configuration name="01.字面量和变量" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjectAI" />
       <option name="ENV_FILES" value="" />
@@ -154,10 +175,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.08.for循环" />
         <item itemvalue="Python.06.match模式匹配" />
         <item itemvalue="Python.04.运算符" />
         <item itemvalue="Python.02.常见数据类型" />
-        <item itemvalue="Python.08.for循环" />
         <item itemvalue="Python.01.字面量和变量" />
       </list>
     </recent_temporary>
